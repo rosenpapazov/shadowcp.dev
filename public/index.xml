@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rosen Papazov | ShadowCP</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Rosen Papazov | ShadowCP</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 26 Nov 2024 16:51:16 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Certs</title>
+      <link>http://localhost:1313/certs/</link>
+      <pubDate>Tue, 26 Nov 2024 16:51:16 +0200</pubDate>
+      <guid>http://localhost:1313/certs/</guid>
+      <description>Red Hat Red Hat Certified Engineer (RHCE) Red Hat Certified System Administrator (RHCSA) Red Hat Certified OpenShift Application Developer Google (GCP) Professional Cloud DevOps Engineer Certification Associate Cloud Engineer Certification Linux Professional Institute (LPI) LPIC-1 </description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 26 Nov 2024 16:27:45 +0200</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Who am I? Name: Rosen Papazov&#xA;Nationality: Bulgaria&#xA;Born: 1991&#xA;What do I work? Position: Application administrator&#xA;Department: Production and development environments&#xA;Company: Information Services JSC&#xA;Responsabilities: Make sure everything works and figure out how new things should work.&#xA;Tech-stack: Linux, Ubuntu &amp;amp; RHEL, k8s, OpenShift, Tekton, F5 Big-IP, Nginx, Tomcat, HAproxy, Ansible, Terraform, GCP, VMware, Proxmox, Zabbix, TCP/IP and everything in-between&#xA;What do I do when not working? Interests: Series, Films, Music, Technology</description>
+    </item>
+  </channel>
+</rss>
