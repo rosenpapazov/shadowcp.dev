@@ -3,6 +3,8 @@ title = 'About'
 date = 2024-11-26T16:27:45+02:00
 draft = false
 +++
+Infrastructure and platform professional focused on Linux, cloud, and automation — keeping complex systems running and figuring out how new ones should.
+
 ## Who am I?
 
 - **Name:** Rosen Papazov

@@ -17,7 +17,7 @@ publishDir   = "public"
 buildDrafts  = false
 buildFuture  = false
 buildExpired = false
-canonifyURLs = true
+canonifyURLs = false
 
 enableRobotsTXT = true
 enableGitInfo   = false
@@ -46,8 +46,10 @@ disableHugoGeneratorInject = false
 [permalinks]
   posts = "/posts/:year/:month/:title/"
 
-[blackfriday]
-  hrefTargetBlank = true
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [taxonomies]
   tag      = "tags"
@@ -62,13 +64,13 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   #
-  description = "Rosen Papazov — Application Administrator passionate about Linux, Kubernetes, cloud infrastructure, and home labs."
+  description = "Rosen Papazov — Chief Application Administrator passionate about Linux, Kubernetes, cloud infrastructure, and home labs."
   keywords = "Rosen Papazov, ShadowCP, Linux, Kubernetes, OpenShift, GCP, DevOps, Ansible, Terraform, RHCE, home lab"
   images = [""]
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Where curiosity meets technology!"
+  homeSubtitle = "Linux, cloud, and automation — from data center to home lab."
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -95,7 +97,7 @@ disableHugoGeneratorInject = false
   # generate the buttons here: https://sharingbuttons.io
   # and add them into your own `layouts/partials/sharing-buttons.html`
   #
-  enableSharingButtons = true
+  enableSharingButtons = false
 
   # Global language menu
   #
@@ -153,7 +155,7 @@ disableHugoGeneratorInject = false
     # Set to a valid CSS time value to change the animation duration, "0s" to disable.
     # logoCursorAnimate  = "2s"
     # Append the current url pathname to logoText
-    # logoCursorPathname = true
+    logoCursorPathname = true
 
   # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
   # Addon: Startpage portrait
@@ -226,7 +228,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "email"
-    url  = "mailto:rmpapazov@shadowcp.dev"
+    url  = "mailto:rosenpapazov@gmail.com"
 
   [[params.social]]
     name = "github"
