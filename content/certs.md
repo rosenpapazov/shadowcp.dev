@@ -2,6 +2,8 @@
 title = 'Certs'
 date = 2024-11-26T16:51:16+02:00
 draft = false
+description = "Certifications earned by Rosen Papazov — RHCE, RHCSA, Red Hat OpenShift Developer, GCP Professional DevOps Engineer, GCP Associate Cloud Engineer, and LPIC-1."
+images = ["/img/image.jpg"]
 +++
 A collection of certifications across Linux, cloud, and container platforms — each one a step deeper into the stack.
 

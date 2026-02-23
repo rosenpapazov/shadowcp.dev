@@ -2,6 +2,8 @@
 title = 'About'
 date = 2024-11-26T16:27:45+02:00
 draft = false
+description = "About Rosen Papazov — Chief Application Administrator working with Linux, Kubernetes, OpenShift, GCP, and automation at scale."
+images = ["/img/image.jpg"]
 +++
 Infrastructure and platform professional focused on Linux, cloud, and automation — keeping complex systems running and figuring out how new ones should.
 
