@@ -1,6 +1,6 @@
 baseURL = 'https://shadowcp.dev/'
 languageCode = 'en-us'
-title = 'Rosen Papazov | ShadowCP'
+title = 'Rosen Papazov'
 theme = 'hello-friend-ng'
 
 PygmentsCodeFences = true
@@ -244,7 +244,7 @@ disableHugoGeneratorInject = false
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   [languages.en.params]
-    subtitle  = "Rosen Papazov | ShadowCP"
+    subtitle  = "ShadowCP"
 
 
 [menu]
