@@ -62,8 +62,8 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   #
-  description = "Personal about page"
-  keywords = ""
+  description = "Rosen Papazov — Application Administrator passionate about Linux, Kubernetes, cloud infrastructure, and home labs."
+  keywords = "Rosen Papazov, ShadowCP, Linux, Kubernetes, OpenShift, GCP, DevOps, Ansible, Terraform, RHCE, home lab"
   images = [""]
 
   # Home subtitle of the index page.
@@ -87,7 +87,7 @@ disableHugoGeneratorInject = false
   # Per default, this option is off.
   # The theme is respecting the prefers-color-scheme of the operating system.
   # With this option on, the page user is able to set the scheme he wants.
-  enableThemeToggle = false
+  enableThemeToggle = true
 
   # Sharing buttons
   #
@@ -229,10 +229,6 @@ disableHugoGeneratorInject = false
     url  = "mailto:rmpapazov@shadowcp.dev"
 
   [[params.social]]
-    name = "email"
-    url = "mailto:rosenpapazov@gmail.com"
-
-  [[params.social]]
     name = "github"
     url  = "https://github.com/rosenpapazov/"
 
@@ -251,11 +247,13 @@ disableHugoGeneratorInject = false
 
 [menu]
   [[menu.main]]
-    identifier = "certs"
-    name       = "Certs"
-    url        = "certs/"
-  [[menu.main]]
     identifier = "about"
     name       = "About"
     url        = "about/"
+    weight     = 1
+  [[menu.main]]
+    identifier = "certs"
+    name       = "Certs"
+    url        = "certs/"
+    weight     = 2
  
