@@ -52,6 +52,7 @@ disableHugoGeneratorInject = false
       unsafe = true
 
 [taxonomies]
+  series = "series"
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -246,13 +247,18 @@ disableHugoGeneratorInject = false
 
 [menu]
   [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "posts/"
+    weight     = 1
+  [[menu.main]]
     identifier = "about"
     name       = "About"
     url        = "about/"
-    weight     = 1
+    weight     = 2
   [[menu.main]]
     identifier = "certs"
     name       = "Certs"
     url        = "certs/"
-    weight     = 2
+    weight     = 3
  
