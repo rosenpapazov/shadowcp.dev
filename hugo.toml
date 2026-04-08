@@ -252,13 +252,18 @@ disableHugoGeneratorInject = false
     url        = "posts/"
     weight     = 1
   [[menu.main]]
+    identifier = "series"
+    name       = "Series"
+    url        = "series/"
+    weight     = 2
+  [[menu.main]]
     identifier = "about"
     name       = "About"
     url        = "about/"
-    weight     = 2
+    weight     = 3
   [[menu.main]]
     identifier = "certs"
     name       = "Certs"
     url        = "certs/"
-    weight     = 3
+    weight     = 4
  
