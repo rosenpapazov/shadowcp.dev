@@ -289,7 +289,7 @@ $ curl http://127.0.0.1:8080/health
 
 ## What's next
 
-In [Part 3]({{< ref "local-ai-intel-lunar-lake-part3-integration" >}}), I connect both models to VS Code and Open WebUI, create systemd user services so everything survives reboots, and cover the operational details of living with local AI day-to-day.
+In Part 3, I connect both models to VS Code and Open WebUI, create systemd user services so everything survives reboots, and cover the operational details of living with local AI day-to-day.
 
 ---
 
