@@ -1,6 +1,6 @@
 +++
 title = "Running Local AI on Intel Lunar Lake — Part 2: Models, Inference Engines, and the NPU That Almost Worked"
-date = 2026-04-07T12:00:00+03:00
+date = 2026-04-08T12:00:00+03:00
 draft = false
 description = "Model conversion pipelines, llama.cpp SYCL and OpenVINO GenAI inference engines, dependency pinning, and why the Intel NPU doesn't work for LLM inference yet."
 images = ["/img/image.jpg"]
