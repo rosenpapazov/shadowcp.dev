@@ -144,12 +144,12 @@ Observed throughput: **~16.5 tokens/sec** on the Arc integrated GPU. Not fast, b
 
 In [Part 2]({{< ref "local-ai-intel-lunar-lake-part2-models" >}}), I cover the model conversion pipeline, the two inference engines (llama.cpp SYCL and OpenVINO GenAI), writing a custom API server, and the pitfalls I hit along the way — including a Python version incompatibility, a dependency matrix from hell, and the NPU that almost worked.
 
-In Part 3, I wire everything into VS Code and Open WebUI, create systemd services for lifecycle management, and share the operational lessons learned.
+In [Part 3]({{< ref "local-ai-intel-lunar-lake-part3-integration" >}}), I wire everything into VS Code and Open WebUI, create systemd services for lifecycle management, and share the operational lessons learned.
 
 ---
 
 *Series: Running Local AI on Intel Lunar Lake*
 - **Part 1: Hardware, Drivers, and the Intel Compute Stack** (you are here)
 - [Part 2: Models, Inference Engines, and the NPU That Almost Worked]({{< ref "local-ai-intel-lunar-lake-part2-models" >}})
-- Part 3: VS Code, Open WebUI, and Running It All as Services *(coming soon)*
+- [Part 3: VS Code, Open WebUI, and Running It All as Services]({{< ref "local-ai-intel-lunar-lake-part3-integration" >}})
 - Part 4: Consolidating on Ollama with IPEX-LLM *(coming soon)*
