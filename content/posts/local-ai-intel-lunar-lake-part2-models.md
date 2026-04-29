@@ -297,4 +297,4 @@ In [Part 3]({{< ref "local-ai-intel-lunar-lake-part3-integration" >}}), I connec
 - [Part 1: Hardware, Drivers, and the Intel Compute Stack]({{< ref "local-ai-intel-lunar-lake-part1-foundation" >}})
 - **Part 2: Models, Inference Engines, and the NPU That Almost Worked** (you are here)
 - [Part 3: VS Code, Open WebUI, and Running It All as Services]({{< ref "local-ai-intel-lunar-lake-part3-integration" >}})
-- Part 4: Consolidating on Ollama with IPEX-LLM *(coming soon)*
+- [Part 4: Consolidating on Ollama with IPEX-LLM]({{< ref "local-ai-intel-lunar-lake-part4-consolidation" >}})
