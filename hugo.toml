@@ -44,7 +44,7 @@ disableHugoGeneratorInject = false
 #     ID = 'G-MEASUREMENT_ID'
 
 [permalinks]
-  posts = "/posts/:year/:month/:title/"
+  posts = "/posts/:year/:month/:slug/"
 
 [markup]
   [markup.goldmark]
@@ -53,6 +53,7 @@ disableHugoGeneratorInject = false
 
 [taxonomies]
   series = "series"
+  tag    = "tags"
 
 [params]
   dateform        = "Jan 2, 2006"
