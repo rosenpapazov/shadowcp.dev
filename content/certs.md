@@ -2,7 +2,7 @@
 title = 'Certs'
 date = 2024-11-26T16:51:16+02:00
 draft = false
-description = "Certifications earned by Rosen Papazov — RHCE, RHCSA, Red Hat OpenShift Developer, GCP Professional DevOps Engineer, GCP Associate Cloud Engineer, and LPIC-1."
+description = "Certifications earned by Rosen Papazov — RHCE, RHCSA, Red Hat OpenShift Administrator, Red Hat OpenShift Developer, GCP Professional DevOps Engineer, GCP Associate Cloud Engineer, and LPIC-1."
 images = ["/img/image.jpg"]
 +++
 A collection of certifications across Linux, cloud, and container platforms — each one a step deeper into the stack.
@@ -20,6 +20,12 @@ Validates skills in automating Linux system administration tasks using Ansible.
 Validates core system administration skills on Red Hat Enterprise Linux.
 
 [![RHCSA](/img/rhcsa.png 'RHCSA')](https://www.credly.com/badges/94a67158-2db5-4774-bf5d-7f897155aa14/public_url)
+
+### Red Hat Certified System Administrator in OpenShift
+
+Validates skills to deploy, manage, and operate Red Hat OpenShift clusters.
+
+[![RHOCP-SA](/img/rhosp-sa.png 'RHOCP-SA')](https://www.credly.com/badges/23f5fe72-7230-4349-8143-56bf3af0dcce/public_url)
 
 ### Red Hat Certified OpenShift Application Developer
 
